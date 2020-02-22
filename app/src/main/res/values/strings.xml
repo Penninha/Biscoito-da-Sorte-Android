@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biscoito da Sorte</string>
+    <string name="label_message_hint">Aqui será exibida a sua mensagem</string>
+    <string name="button_new_message">Mostrar outra mensagem</string>
+
+    <string name="message_one">Nada é verdadeiro, tudo é permitido</string>
+    <string name="message_two">O sucesso é uma consequência e não um objetivo</string>
+    <string name="message_three">A vida é como uma rapadura: é doce mas não é mole não</string>
+
+</resources>

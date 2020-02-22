@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        style="@style/Container"
+        tools:context=".MainActivity">
+
+    <TextView
+            android:id="@+id/tvMessage"
+            android:text="@string/label_message_hint"
+            style="@style/Label"
+    />
+
+    <Button
+            android:id="@+id/btnNewMessage"
+            android:text="@string/button_new_message"
+    style="@style/Button"/>
+
+</LinearLayout>
